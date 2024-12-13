@@ -1,0 +1,5 @@
+train: E:\KI-model\pythonProject\data\images\train  # Pfad zu deinen Trainingsbildern
+val: E:\KI-model\pythonProject\data\images\val     # Pfad zu deinen Validierungsbildern (optional, falls du nur ein Bild verwendest)
+
+nc: 1  
+names: ['orange']  
